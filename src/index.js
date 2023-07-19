@@ -4,6 +4,7 @@ import './styles/index.css';
 import Root from './components/root';
 import About from './components/about';
 import Home from './components/home';
+import 'bootstrap/dist/css/bootstrap.css';
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 
